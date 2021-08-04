@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* Global styles
+-------------------------------*/
+body {
+  color: #343434;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+img {
+  width: 300px;
+}
+a {
+  color: #FFE66D;
+}
+a:hover {
+  text-decoration: none;
+}
+h1, h2 {
+  font-family: 'Caveat', cursive;
+  font-weight: 400;
+  margin: 0;
+}
+h1 {
+  font-size: 100px;
+  line-height: 1;
+}
+h2 {
+  font-size: 45px;
+}
+.content-wrap {
+  margin: 0 auto;
+  padding: 60px;
+  width: 800px;
+}
+/* Profile
+-------------------------------*/
+header {
+  background: #2F3061;
+  color: #F7FFF7;
+}
+/* Projects
+-------------------------------*/
+.projects {
+  background: #F7FFF7;
+}
+.projects a {
+  color: #2F3061;
+}
+.projects .btn {
+  background: #2F3061;
+  border-radius: 4px;
+  color: #F7FFF7;
+  display: inline-block;
+  padding: 8px;
+  text-decoration: none;
+}
+.projects .btn:hover {
+  background: rgba(47, 48, 97, 80%);
+}
+/* Work Experience
+-------------------------------*/
+.work-experience {
+  background: #A1C6D7;
+}
+/* Education
+-------------------------------*/
+
+/* Contact Info
+-------------------------------*/
+footer {
+  background: #343434;
+  color: #F7FFF7;
+}
