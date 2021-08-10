@@ -61,21 +61,21 @@ h3 {
 /* Profile
 -------------------------------*/
 header {
-  background: #2F3061;
-  color: #F7FFF7;
+  background: #2E1C2B;
+  color: #EAEAEA;
 }
 /* Projects
 -------------------------------*/
 .projects {
-  background: #F7FFF7;
+  background: #EAEAEA;
 }
 .projects a {
-  color: #2F3061;
+  color: #893168;
 }
 .projects .btn {
-  background: #2F3061;
+  background: #893168;
   border-radius: 4px;
-  color: #F7FFF7;
+  color: #EAEAEA;
   display: inline-block;
   padding: 8px;
   text-decoration: none;
@@ -92,7 +92,8 @@ header {
 /* Work Experience
 -------------------------------*/
 .work-experience {
-  background: #A1C6D7;
+  background: #4A1942;
+  color: #EAEAEA;
 }
 /* Education
 -------------------------------*/
@@ -108,8 +109,8 @@ header {
 /* Contact Info
 -------------------------------*/
 footer {
-  background: #343434;
-  color: #F7FFF7;
+  background: #050404;
+  color: #EAEAEA;
 }
 .contact-list {
   list-style-type: none;
